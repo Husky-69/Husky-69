@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shallom Githui
 
-I'm a passionate **Data Scientist** and **Business Analyst** with a knack for turning data into actionable insights and delivering exceptional user experiences. Currently pursuing a Data Science Certification at Moringa School, I specialize in Python, SQL, Tableau, and Machine Learning, with hands-on experience in sales, customer service, and data analysis. I’m excited to leverage data to solve real-world problems.
+I'm a passionate **Data Scientist** and **Sales/Customer Service Expert** with a knack for turning data into actionable insights and delivering exceptional user experiences. Currently pursuing a Data Science Certification at Moringa School, I specialize in Python, SQL, Tableau, and Machine Learning, with hands-on experience in sales, customer service, and data analysis. I’m excited to leverage data to solve real-world problems.
 
 ---
 
