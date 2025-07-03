@@ -23,7 +23,7 @@ I'm a passionate **Data Scientist** and **Sales/Customer Service Expert** with a
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: [shallomgithu59@gmail.com](mailto:shallomgithu59@gmail.com)
+- 📧 Email: [shallomgithui59@gmail.com](mailto:shallomgithu59@gmail.com)
 - 🔗 LinkedIn: www.linkedin.com/in/shallom-githui-85a621211
 - 🌐 GitHub: You're already here! Check out my repositories below.
 
