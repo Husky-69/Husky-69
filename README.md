@@ -17,7 +17,7 @@ I'm a passionate **Data Scientist** and **Sales/Customer Service Expert** with a
 - **Programming & Tools**: Python, SQL, Tableau, Jupyter Notebook, Looker Studio, GitHub, Power BI
 - **Data Science**: Machine Learning, Data Analysis, Data Visualization, API Integration
 - **Professional**: Customer Service, Sales, Market Research, Logistics Planning, Conflict Resolution
-- **Office Tools**: Microsoft Excel, Word, PowerPoint, Outlook
+- **Office Tools**: Microsoft Excel, Word, PowerPoint, Outlook , Sage , QuickBooks
 - **Languages**: English (Fluent), French (Basic)
 
 ---
