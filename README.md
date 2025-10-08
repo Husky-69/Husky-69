@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Shallom Githui
 
-I'm a passionate **Data Scientist** and **Sales/Customer Service Expert** with a knack for turning data into actionable insights and delivering exceptional user experiences. Currently pursuing a Data Science Certification at Moringa School, I specialize in Python, SQL, Tableau, and Machine Learning, with hands-on experience in sales, customer service, and data analysis. I’m excited to leverage data to solve real-world problems.
+I'm a passionate **Data Scientist** and **AWS Cloud Practitioner** with a knack for turning data into actionable insights and delivering exceptional user experiences. Completing a Data Science Certification at Moringa School, I specialize in Python, SQL, Tableau, and Machine Learning, with hands-on experience in sales, customer service, and data analysis. A hands-on record of my training in Amazon Web Services (AWS) through the **Ajira Digital** program.I'm building foundational cloud skills to support scalable data pipelines, storage, and analytics in real-world applications.
 
 ---
 
 ## 🚀 About Me
 - 🌍 Based in Kenya, with a mission to drive impact through data and technology.
-- 🎓 Studying **Data Science** at Moringa School (Feb 2025 - Present), mastering Python, SQL, Tableau, Machine Learning, and API integration.
+- 🎓 Completed **Data Science** at Moringa School (Feb 2025 - Nov 2025), mastering Python, SQL, Tableau, Machine Learning, and API integration.
+- Core AWS Services: EC2, S3, IAM, Lambda, RDS, Cloud security & access management, data storage and transfer in the cloud, introduction to serverless computing 
+  and automation, best practices for cost, performance, and reliability
 - 💼 Experienced in sales and customer service, with a track record of meeting targets and resolving client challenges at I-Teq Solutions and Mecka Ventures.
 - 🔍 Passionate about financial inclusion, data-driven decision-making, and creating solutions that empower communities.
 - 📚 Love traveling and reading in my free time.
@@ -14,7 +16,7 @@ I'm a passionate **Data Scientist** and **Sales/Customer Service Expert** with a
 ---
 
 ## 🛠️ Skills
-- **Programming & Tools**: Python, SQL, Tableau, Jupyter Notebook, Looker Studio, GitHub, Power BI
+- **Programming & Tools**: Python, SQL, Tableau, Jupyter Notebook, Looker Studio, GitHub, Power BI, AWS
 - **Data Science**: Machine Learning, Data Analysis, Data Visualization, API Integration
 - **Professional**: Customer Service, Sales, Market Research, Logistics Planning, Conflict Resolution
 - **Office Tools**: Microsoft Excel, Word, PowerPoint, Outlook , Sage , QuickBooks
