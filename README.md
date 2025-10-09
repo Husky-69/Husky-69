@@ -1,37 +1,26 @@
-# 👋 Hi, I'm Shallom Githui
+# Hi there 👋 I'm Shallom Githui
 
-I'm a passionate **Data Scientist** and **AWS Cloud Practitioner** with a knack for turning data into actionable insights and delivering exceptional user experiences. Completing a Data Science Certification at Moringa School, I specialize in Python, SQL, Tableau, and Machine Learning, with hands-on experience in sales, customer service, and data analysis. A hands-on record of my training in Amazon Web Services (AWS) through the **Ajira Digital** program.I'm building foundational cloud skills to support scalable data pipelines, storage, and analytics in real-world applications.
+A **data scientist in training** at Moringa School, passionate about turning raw data into actionable insights that solve real-world problems.
 
----
+🔧 Currently building my cloud skills through the **AWS training program on Ajira Digital**  
+🎯 Goal: Use data & AI to improve healthcare, business decisions, and community impact  
 
-## 🚀 About Me
-- 🌍 Based in Kenya, with a mission to drive impact through data and technology.
-- 🎓 Completed **Data Science** at Moringa School (Feb 2025 - Nov 2025), mastering Python, SQL, Tableau, Machine Learning, and API integration.
-- Core AWS Services: EC2, S3, IAM, Lambda, RDS, Cloud security & access management, data storage and transfer in the cloud, introduction to serverless computing 
-  and automation, best practices for cost, performance, and reliability
-- 💼 Experienced in sales and customer service, with a track record of meeting targets and resolving client challenges at I-Teq Solutions and Mecka Ventures.
-- 🔍 Passionate about financial inclusion, data-driven decision-making, and creating solutions that empower communities.
-- 📚 Love traveling and reading in my free time.
+## 🚀 What I Work On
+- Predictive modeling (e.g., football player positions using FIFA21 data)
+- NLP for healthcare (e.g., extracting cancer info from medical texts)
+- Business intelligence (e.g., helping movie studios invest smarter)
+- Cloud + data pipelines (currently learning AWS S3, EC2, IAM)
 
----
+## 💼 Check Out My Projects
+| Project | Description |
+|--------|-------------|
+| [Aviation Accident Analysis](https://github.com/Husky-69/Understanding_Accident_Patterns) | Find low-risk aircraft for safer fleet investments |
+| [Movie Investment Insights](https://github.com/Husky-69/Movie_Analysis_for_Sinemas_Investment_Insights) | Help studios pick profitable movies using data |
+| [FIFA21 Player Classifier](https://github.com/Husky-69/Fifa21_classification_project) | Predict soccer positions using machine learning |
+| [Medical Chatbot for Cancer Data](https://github.com/Husky-69/Cancer_NLP_Group_project) | Extract key info from clinical notes using NLP |
 
 ## 🛠️ Skills
-- **Programming & Tools**: Python, SQL, Tableau, Jupyter Notebook, Looker Studio, GitHub, Power BI, AWS
-- **Data Science**: Machine Learning, Data Analysis, Data Visualization, API Integration
-- **Professional**: Customer Service, Sales, Market Research, Logistics Planning, Conflict Resolution
-- **Office Tools**: Microsoft Excel, Word, PowerPoint, Outlook , Sage , QuickBooks
-- **Languages**: English (Fluent), French (Basic)
+Python • SQL • Tableau • Power BI • Machine Learning • NLP (spaCy, NLTK) • AWS (Learning) • Git
 
----
-
-## 📫 Connect With Me
-- 📧 Email: [shallomgithui59@gmail.com](mailto:shallomgithu59@gmail.com)
-- 🔗 LinkedIn: www.linkedin.com/in/shallom-githui-85a621211
-- 🌐 GitHub: You're already here! Check out my repositories below.
-
----
-
-## 🌟 Why I’m Excited to Work in Data Science
-I’m driven by the power of data to transform lives, whether it’s optimizing business processes or enabling financial inclusion. I’m eager to join a mission-driven team to build models and insights that empower the community.
-
-*“Data is the key to progress, and I’m here to unlock it!”*
+## 📬 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/shallom-githui-85a621211) | Email: shallomgithui59@gmail.com
