@@ -18,7 +18,7 @@ A **data scientist in training** at Moringa School, passionate about turning raw
 | [Movie Investment Insights](https://github.com/Husky-69/Movie_Analysis_for_Sinemas_Investment_Insights) | Help studios pick profitable movies using data |
 | [FIFA21 Player Classifier](https://github.com/Husky-69/Fifa21_classification_project) | Predict soccer positions using machine learning |
 | [Medical Chatbot for Cancer Data](https://github.com/Husky-69/Cancer_NLP_Group_project) | Extract key info from clinical notes using NLP |
-|.[Yakwetu™ Climate-Based Variable Pricing Project](https://github.com/Husky-69/Yakwetu_project) | Recommender system with dynamic pricing |
+| [Yakwetu™ Climate-Based Variable Pricing Project](https://github.com/Husky-69/Yakwetu_project) | Recommender system with dynamic pricing |
 
 ## 🛠️ Skills
 Python • SQL • Tableau • Power BI • Machine Learning • NLP (spaCy, NLTK) • AWS (Learning) • Git
