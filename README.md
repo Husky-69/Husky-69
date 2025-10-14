@@ -2,8 +2,11 @@
 
 A **data scientist in training** at Moringa School, passionate about turning raw data into actionable insights that solve real-world problems.
 
+💼 **Also experienced in Sales & Customer Service** — where I’ve managed inventory, processed orders, generated leads, and built strong client relationships.
+
+## 
 🔧 Currently building my cloud skills through the **AWS training program on Ajira Digital**  
-🎯 Goal: Use data & AI to improve healthcare, business decisions, and community impact  
+🎯 Goal: Use data & AI to improve healthcare, business decisions, and community impact.Bridge business needs with data-driven solutions to drive smarter decisions. 
 
 ## 🚀 What I Work On
 - Predictive modeling (e.g., football player positions using FIFA21 data)
