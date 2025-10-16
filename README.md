@@ -27,4 +27,4 @@ A **data scientist in training** at Moringa School, passionate about turning raw
 Python • SQL • Tableau • Power BI • Machine Learning • NLP (spaCy, NLTK) • AWS (Learning) • Git
 
 ## 📬 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/shallom-githui-85a621211) | Email: shallomgithui59@gmail.com | Portfolio: [https://husky-69.github.io/](https://husky69.netlify.app/)(https://husky69.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/shallom-githui-85a621211) | Email: shallomgithui59@gmail.com | Portfolio: (https://husky69.netlify.app/)
