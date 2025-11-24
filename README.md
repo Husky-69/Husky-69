@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shallom Githui
 
-A **data scientist in training** at Moringa School, passionate about turning raw data into actionable insights that solve real-world problems.
+A **data scientist** certified by Moringa School, passionate about turning raw data into actionable insights that solve real-world problems.
 
 💼 **Also experienced in Sales & Customer Service** — where I’ve managed inventory, processed orders, generated leads, and built strong client relationships.
 
