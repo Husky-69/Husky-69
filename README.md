@@ -11,7 +11,7 @@ A **data engineer** certified by Moringa School, passionate about turning raw da
 - Predictive modeling (e.g., football player positions using FIFA21 data)
 - NLP for healthcare (e.g., extracting cancer info from medical texts)
 - Business intelligence (e.g., helping movie studios invest smarter)
-- Cloud + data pipelines (currently learning AWS S3, EC2, IAM, Cloud9)
+- Cloud + data pipelines (AWS S3, EC2, IAM, Cloud9)
 
 ## 💼 Check Out My Projects
 | Project | Description |
