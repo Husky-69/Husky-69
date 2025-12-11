@@ -5,7 +5,6 @@ A **data engineer** certified by Moringa School, passionate about turning raw da
 💼 **Also experienced in Sales & Customer Service** — where I’ve managed inventory, processed orders, generated leads, and built strong client relationships.
 
 ## 
-🔧 Currently building my cloud skills through the **AWS training program on Ajira Digital**  
 🎯 Goal: Use data & AI to improve healthcare, business decisions, and community impact.Bridge business needs with data-driven solutions to drive smarter decisions. 
 
 ## 🚀 What I Work On
