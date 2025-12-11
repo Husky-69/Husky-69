@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shallom Githui
 
-A **data scientist** certified by Moringa School, passionate about turning raw data into actionable insights that solve real-world problems.
+A **data engineer** certified by Moringa School, passionate about turning raw data into actionable insights that solve real-world problems.
 
 💼 **Also experienced in Sales & Customer Service** — where I’ve managed inventory, processed orders, generated leads, and built strong client relationships.
 
@@ -24,7 +24,7 @@ A **data scientist** certified by Moringa School, passionate about turning raw d
 | [Yakwetu™ Climate-Based Variable Pricing Project](https://github.com/Husky-69/Yakwetu_project) | Recommender system with dynamic pricing |
 
 ## 🛠️ Skills
-Python • SQL • Tableau • Power BI • Machine Learning • NLP (spaCy, NLTK) • AWS (Learning) • Git
+Python • SQL • Tableau • Power BI • Machine Learning • NLP (spaCy, NLTK) • AWS Certified Cloud Practitioner • Git
 
 ## 📬 Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/shallom-githui-85a621211) | Email: shallomgithui59@gmail.com | Portfolio: (https://husky69.netlify.app/)
