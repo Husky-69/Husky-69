@@ -26,4 +26,4 @@ A **data engineer** certified by Moringa School, passionate about turning raw da
 Python • SQL • Tableau • Power BI • Machine Learning • NLP (spaCy, NLTK) • AWS Certified Cloud Practitioner • Git
 
 ## 📬 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/shallom-githui-85a621211) | Email: shallomgithui59@gmail.com | Portfolio: (https://husky69.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/shallom-githui-85a621211) | Email: shallomgithui59@gmail.com | Portfolio: (https://v0-shallom-githui-portfolio.vercel.app/)
